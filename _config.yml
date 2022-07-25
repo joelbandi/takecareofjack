@@ -21,8 +21,8 @@
 title: Taking Care of Jack
 email: joelvivekbandi@gmail.com
 description: A small guide.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "joelbandi.github.io/takingcareofjack" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/takecareofjack" # the subpath of your site, e.g. /blog
+url: "https://joelbandi.github.io/takecareofjack" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  joelbandi
 theme: hitchens-theme
 hide_credits: true
