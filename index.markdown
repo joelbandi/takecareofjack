@@ -5,16 +5,21 @@
 layout: custom
 ---
 
-### Behavior
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Tortor dignissim convallis aenean et tortor at risus viverra. Augue ut lectus arcu bibendum at varius. Arcu non sodales neque sodales ut etiam sit. Sem et tortor consequat id porta nibh venenatis. Diam vulputate ut pharetra sit amet aliquam id. Platea dictumst vestibulum rhoncus est pellentesque elit ullamcorper dignissim. Malesuada nunc vel risus commodo viverra maecenas. Pretium lectus quam id leo in vitae turpis massa sed. Condimentum vitae sapien pellentesque habitant morbi tristique senectus et. Odio aenean sed adipiscing diam donec adipiscing. Montes nascetur ridiculus mus mauris. Augue lacus viverra vitae congue. Eu volutpat odio facilisis mauris sit. Maecenas pharetra convallis posuere morbi leo urna molestie at. Tortor dignissim convallis aenean et tortor at risus viverra. Gravida cum sociis natoque penatibus et magnis dis parturient montes. Dolor morbi non arcu risus quis varius quam quisque.
-
-Cras pulvinar mattis nunc sed blandit libero volutpat sed cras. Lorem dolor sed viverra ipsum nunc aliquet. Convallis a cras semper auctor. Neque vitae tempus quam pellentesque nec nam aliquam sem et. Tristique risus nec feugiat in fermentum posuere. Cursus euismod quis viverra nibh. Aliquam purus sit amet luctus venenatis. In mollis nunc sed id semper. Nullam vehicula ipsum a arcu cursus vitae congue mauris rhoncus. Diam in arcu cursus euismod quis viverra nibh cras. Vitae elementum curabitur vitae nunc sed velit dignissim sodales. Orci ac auctor augue mauris augue neque gravida in fermentum.
-
 ### Food
-Magna ac placerat vestibulum lectus mauris ultrices eros in cursus. Dui faucibus in ornare quam viverra. Nulla facilisi morbi tempus iaculis urna id volutpat. Tincidunt arcu non sodales neque. Vitae elementum curabitur vitae nunc sed. Dictumst vestibulum rhoncus est pellentesque elit. Laoreet non curabitur gravida arcu ac. Faucibus in ornare quam viverra orci. Phasellus egestas tellus rutrum tellus. Elementum eu facilisis sed odio morbi quis commodo odio aenean. Potenti nullam ac tortor vitae purus faucibus. Lacus sed turpis tincidunt id aliquet risus feugiat. Interdum posuere lorem ipsum dolor. Sed sed risus pretium quam vulputate dignissim suspendisse in est. Nascetur ridiculus mus mauris vitae ultricies leo. Dui vivamus arcu felis bibendum ut tristique et egestas quis. Egestas erat imperdiet sed euismod.
+
+- **What:** [Hill's Science Diet - Adult Perfect Weight Dog Food](https://www.hillspet.com/dog-food/sd-canine-adult-perfect-weight-dry){:target="_blank"}
+- **When:** Twice per day. Breakfast is around 8:00am and dinner is around 8:00pm 
+- **How much:** One heaping scoop from the big container at each meal. Add a splash of milk or tablespoon of yogurt on top from the fridge.
+- **Water:** Please keep his water bowl full at all times. He's usually good about drinking water, but if it seems like he hasn't been drinking enough, point to the bowl, bring him close, and say “WATER” and he’ll drink it if he wants.
+- ***Optional:*** Up to once per day, Jack may have a treat if you feel inclined. Find the treats in the orange or red containers near the toaster oven *(they're actually dog vitamins)*.
+- **Other details:** If you notice Jack staring at his food and/or looking at you after you fill his bowl, he may be waiting for permission - just say “OKAY” or "GO" and he’ll start eating. If you want him to wait for a moment to dive into his food, firmly say "WAIT" before giving him permission to begin eating. 
+
+
+### Behavior
+Jack is generally very well behaved and calm. He entertains himself easily when you are engaged with other things. We have a fenced side yard, which should allow you to open the back door (off the laundry area) for him to come and go as he pleases. Feel free to leave the back door open with him out in the yard while you work inside, and he will play with leaves and such. 
 
 ### Routine
+VERY MUCH PLS
 Pellentesque nec nam aliquam sem et tortor consequat. Vel pharetra vel turpis nunc eget lorem dolor sed viverra. Est pellentesque elit ullamcorper dignissim cras tincidunt. Venenatis urna cursus eget nunc. Ornare arcu odio ut sem. Tempor commodo ullamcorper a lacus vestibulum sed arcu. Dignissim enim sit amet venenatis urna cursus eget. Dolor purus non enim praesent. Sit amet aliquam id diam maecenas ultricies mi. Blandit turpis cursus in hac. Nisl pretium fusce id velit ut tortor pretium viverra. Aliquet enim tortor at auctor urna nunc id cursus metus. A arcu cursus vitae congue mauris rhoncus aenean vel. Habitasse platea dictumst vestibulum rhoncus. Vel fringilla est ullamcorper eget nulla facilisi. Enim tortor at auctor urna nunc id cursus metus. Eu nisl nunc mi ipsum faucibus. Luctus venenatis lectus magna fringilla urna porttitor rhoncus dolor purus. Aliquam vestibulum morbi blandit cursus risus.
 
 ### Tricks
@@ -32,3 +37,9 @@ Tortor at risus viverra adipiscing at in. Faucibus turpis in eu mi bibendum nequ
 1. dfsdfs
 2. sdfsdf
 3. sdfsdf
+
+[Click Here](https://google.com){:target="_blank"}
+
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d725.7302212999664!2d-119.71133933413702!3d34.4376168502696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e9149132281cfd%3A0xb2a964ad2cbe9afa!2sMission%20Rose%20Garden!5e0!3m2!1sen!2sus!4v1658805871113!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+Al05mighty^
