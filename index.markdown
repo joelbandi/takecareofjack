@@ -41,5 +41,3 @@ Tortor at risus viverra adipiscing at in. Faucibus turpis in eu mi bibendum nequ
 [Click Here](https://google.com){:target="_blank"}
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d725.7302212999664!2d-119.71133933413702!3d34.4376168502696!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80e9149132281cfd%3A0xb2a964ad2cbe9afa!2sMission%20Rose%20Garden!5e0!3m2!1sen!2sus!4v1658805871113!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-Al05mighty^
