@@ -6,19 +6,19 @@ layout: custom
 ---
 
 ### Routine
-- ***Breakfast:*** ~8:00am. See details in *Food* section below.
-- ***Potty:*** Open back door at the same time as breakfast. He'll go out to do his business and come back when he's finished. Jack usually pees every few hours if left to hang out and/or on walks. He usually poops twice per day - once after breakfast (or on walk) and once after dinner/before bed. ***Find poop bags in basket on kitchen counter or in cabinet above washing machine***
+- ***Breakfast:*** ~7:30/8:00am. See details in *Food* section below.
+- ***Potty:*** Open back door at the same time as breakfast. He'll go out to do his business and come back when he's finished. Jack usually pees every 4-5 hours if left to hang out and/or on walks. He usually poops twice per day - once after breakfast (or on walk) and once after dinner/before bed. ***Find poop bags in basket on kitchen counter or in cabinet above washing machine***
 - ***Exercise:*** At LEAST one good walk and/or fetch per day, whenever and wherever is most convenient for you. See *Activities* section below for more details and ideas.
-- ***Dinner:*** ~8:00pm. See details in *Food* section below.
-- ***Sleep:*** Open back door for him to potty or take him to the area in front of our house for a few minutes. Jack normally sleeps on our bed every night. Depending on his comfort level, he will most likely want to sleep at your feet if you are comfortable with this. Otherwise, he will make himself comfortable on the couch or his blanket in the living room.
+- ***Dinner:*** ~7:30/8:00pm. See details in *Food* section below.
+- ***Sleep:*** Open back door for him to potty or take him to the area in front of our house for a few minutes. Jack normally sleeps on our bed every night. Depending on his comfort level, he will most likely want to sleep at your feet if you are comfortable with this. Otherwise, he will make himself comfortable on the couch or his blanket in the living room. Else, throw down a blanket on the floor (there are tons next to our couch) and he will sleep there
 
  --- 
 
 ### Food
 
 - **What:** [Hill's Science Diet - Adult Perfect Weight Dog Food](https://www.hillspet.com/dog-food/sd-canine-adult-perfect-weight-dry){:target="_blank"} (available at [Pet Smart](https://goo.gl/maps/LWWQ6EY3t4nzLP6a6){:target="_blank"})
-- **When:** Twice per day. Breakfast is ~8:00am and dinner is ~8:00pm 
-- **How much:** One heaping scoop from the big container at each meal. Add a splash of milk or tablespoon of yogurt on top from the fridge.
+- **When:** Twice per day. Breakfast is ~7:30/8:00am and dinner is ~7:30/8:00pm 
+- **How much:** One heaping scoop from the big container at each meal.
 - **Water:** Please keep his water bowl full at all times. He's usually good about drinking water, but if it seems like he hasn't been drinking enough, point to the bowl, bring him close, and say “WATER” and he’ll drink it if he wants.
 - ***Optional:*** Up to once per day, Jack may have a treat if you feel inclined. Find the treats in the orange or red containers near the toaster oven *(they're actually dog vitamins)*.
 - **Other details:** If you notice Jack staring at his food and/or looking at you after you fill his bowl, he may be waiting for permission - just say “OKAY” or "GO" and he’ll start eating. If you want him to wait for a moment to dive into his food, firmly say "WAIT" before giving him permission to begin eating. 
@@ -65,6 +65,8 @@ Jack is generally very well behaved and calm. He does well with dogs, cats, and 
 7. SNOOT - Cup your hands in a circle and say "SNOOT" and he will place his nose in your hands 
 8. LEGS - Standup with your legs apart, say "LEGS" with your hand behind the tunnel and he will run through your legs
 9. PLACE - Call his name, point to wherever you want him to go (ex. on top of a bench), and say "PLACE".
+10. PAW - Will give you his paw for a shake.
+11. OTHER PAW - will give you is other paw.
 
 --- 
 
